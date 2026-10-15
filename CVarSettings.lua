@@ -40,6 +40,8 @@ local categories = {
         "spellClutter",
         "rippleDetail",
         "pbrLiquidDetail",
+        "waterDetail",
+        "SkyCloudLOD",
         "reflectionMode",
         "Gamma",
         "Contrast",

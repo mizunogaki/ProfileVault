@@ -2,7 +2,7 @@
 ## Title: Profile Vault
 ## Notes: Сохраняет и восстанавливает профили настроек (CVars и клавиши).
 ## Author: Mizunogaki
-## Version: 0.3.0
+## Version: 0.3.1
 ## SavedVariables: ProfileVaultDB
 
 Core.lua
