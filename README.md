@@ -13,3 +13,5 @@
 
 /pv load [название] - загружает профиль.
 Управлять профилями можно в тут: Настройки > Модификации > ProfileVault
+
+Гайд по консольным командам для грубоких настроек графики: https://github.com/mizunogaki/ProfileVault/blob/main/COMMANDS_ru.md
