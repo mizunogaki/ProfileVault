@@ -1,0 +1,12 @@
+## Interface: 16001
+## Title: Profile Vault
+## Notes: Сохраняет и восстанавливает профили настроек (CVars и клавиши).
+## Author: Mizunogaki
+## Version: 0.3.0
+## SavedVariables: ProfileVaultDB
+
+Core.lua
+CVarSettings.lua
+Keybinds.lua
+Commands.lua
+Options.lua

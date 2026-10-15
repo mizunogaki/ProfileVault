@@ -1,0 +1,5 @@
+*.wtf
+__pycache__/
+node_modules/
+*.log
+.DS_Store
