@@ -2,6 +2,8 @@
 
 A curated list of console commands for fine-tuning graphics in WoW Forever beyond the in-game menu limits.
 
+English | [Русский](COMMANDS_ru.md)
+
 > **Note:** Values and CVar names may vary depending on the WoW Forever build. If a command doesn't apply or resets after restart, the client may not support it or the launcher may overwrite the config.
 
 ---
