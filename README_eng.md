@@ -10,6 +10,8 @@ A World of Warcraft addon for saving graphics settings and keybinds in WoW Forev
 2. Copy the `ProfileVault` folder into your `Interface/AddOns` directory
 3. After configuring your graphics and keybinds, save a profile using `/pv save [name]`, then make sure to reload the UI with `/reload` so the profile is written to disk.
 
+How it works: https://www.youtube.com/watch?v=3YV5pSO83Is
+
 ## Useful Commands
 
 `/pv save [name]` — saves a profile to the addon's memory.  
