@@ -2,7 +2,7 @@
 
 A World of Warcraft addon for saving graphics settings and keybinds in WoW Forever. Create separate profiles that store your settings, including advanced graphics options such as vegetation density and terrain object draw distance.
 
-**English** | [Русский](README.ru.md)
+**English** | [Русский](README.md)
 
 ## Installation
 
