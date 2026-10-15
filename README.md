@@ -14,7 +14,7 @@
 /pv load [название] - загружает записанный ранее профиль.
 Управлять профилями можно в тут: Настройки > Модификации > ProfileVault
 
-Гайд по консольным командам для грубоких настроек графики: https://github.com/mizunogaki/ProfileVault/blob/main/COMMANDS_ru.md
+Гайд по консольным командам для глубоких настроек графики — [жмяк](https://github.com/mizunogaki/ProfileVault/blob/main/COMMANDS_ru.md).
 
 ## Как перенести настройки профилей из беты в релиз WoW Forever
 
