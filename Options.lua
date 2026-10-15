@@ -12,7 +12,7 @@ title:SetText("Profile Vault")
 
 local subtitle = panel:CreateFontString(nil, "ARTWORK", "GameFontHighlight")
 subtitle:SetPoint("TOPLEFT", title, "BOTTOMLEFT", 0, -8)
-subtitle:SetText("Сохранение и загрузка профилей графики, интерфейса и клавиш.")
+subtitle:SetText("Сохранение и загрузка профилей графики и клавиш.")
 
 local status = panel:CreateFontString(nil, "ARTWORK", "GameFontHighlight")
 status:SetPoint("TOPLEFT", subtitle, "BOTTOMLEFT", 0, -14)
