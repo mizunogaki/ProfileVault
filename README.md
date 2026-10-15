@@ -10,6 +10,8 @@
 2. Скопируйте папку ProfileVault в папку Interface/AddOns
 3. После настроек графики и клавиш сохраните профиль через команду `/pv save [название]`, затем обязательно перезапустите игру через `/reload`, чтобы профиль записался.
 
+How it works: https://www.youtube.com/watch?v=3YV5pSO83Is
+
 Демонстрация работы аддона: https://www.youtube.com/watch?v=3YV5pSO83Is
 
 ## Полезные команды
