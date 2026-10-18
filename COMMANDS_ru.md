@@ -43,7 +43,7 @@
 Проверить текущее значение:
 
 ```text
-/dump GetCVar("farclip")
+/run print("farclip =", GetCVar("farclip"))
 ```
 
 - Диапазон: `1000–19600`
